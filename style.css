@@ -134,7 +134,9 @@ img{
 
     .navlinks{
         flex-direction: column;
+        margin-right: 40px;
         gap: 8px;
+        
     }
     
     .mid{
